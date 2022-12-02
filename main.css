@@ -51,6 +51,10 @@ a{
   font-size: 24px;
   margin-bottom: 50px;
 }
+
+#shadow {
+  text-shadow: 2px 4px 3px rgb(108, 0, 154)
+}
 /* Banner css */
 
 #banner{
