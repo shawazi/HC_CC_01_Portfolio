@@ -1,2 +1,1 @@
-# portfolio
-for teamwork assignment, github pages not working from main repo
+https://shawazi.github.io/HC_CC_01_Portfolio/
